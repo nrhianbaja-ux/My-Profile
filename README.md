@@ -1,9 +1,10 @@
 # Hello, I'm Rhian Baja !
 <a href="https://www.linkedin.com/in/rhian-baja/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+
+## About Me
 I am a Cybersecurity student at De La Salle–College of Saint Benilde focused on building foundational skills in network security, threat detection, and vulnerability analysis. My experience includes working on projects such as an incident response plan, phishing awareness simulations, and security labs involving network traffic monitoring and attack detection. I am currently expanding my knowledge in ethical hacking, penetration testing, and security operations. I like matcha and pilates : )
 
-## Basic Information
 As a second-year Cybersecurity student at De La Salle–College of Saint Benilde, I am eager to expand my knowledge in cybersecurity fundamentals, networking, cryptography, penetration testing, digital forensics, and cloud security while developing the skills necessary to address modern cyber threats.
 
 ## Skills
