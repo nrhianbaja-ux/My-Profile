@@ -38,18 +38,10 @@ As a second-year Cybersecurity student at De La Salle–College of Saint Benilde
   <img src="https://img.shields.io/badge/-MD5-008000?&style=for-the-badge&logo=hashnode&logoColor=white" alt="MD5" />    
   <img src="https://img.shields.io/badge/-Hound-FF4500?&style=for-the-badge&logo=hound&logoColor=white" alt="Hound" />
     <div style="display:flex; flex-wrap:wrap; gap:8px;">
-    
-  <img src="https://img.shields.io/badge/-Kleopatra-000080?&style=for-the-badge&logo=gpg&logoColor=white" alt="Kleopatra" />
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-    
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-    
+  <img src="https://img.shields.io/badge/-Kleopatra-000080?&style=for-the-badge&logo=gpg&logoColor=white" alt="Kleopatra" />    
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />    
   <img src="https://img.shields.io/badge/-Cain%20and%20Abel-8B0000?&style=for-the-badge&logo=windows&logoColor=white" alt="Cain and Abel" />
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-    
   <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0070D1?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-  <div style="display:flex; flex-wrap:wrap; gap:8px;">
 </div>
 
 
