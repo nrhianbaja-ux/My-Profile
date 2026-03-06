@@ -63,4 +63,3 @@ https://drive.google.com/drive/folders/1fn2-KDXdNEfhKQVx8ZlZdpJVn_YojZIm?usp=sha
 - Incident Response Plan (IRP)
 - Phishing Awareness Game
 - Networking / Subnetting Exercises
-- 
