@@ -52,11 +52,9 @@ As a second-year Cybersecurity student at De La Salle–College of Saint Benilde
 ## Certifications
 https://drive.google.com/drive/folders/1fn2-KDXdNEfhKQVx8ZlZdpJVn_YojZIm?usp=sharing
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-SC--900%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Information%20Technology%20Specialist-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python%20ITS-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ## Projects
