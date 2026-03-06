@@ -51,10 +51,15 @@ As a second-year Cybersecurity student at De La Salle–College of Saint Benilde
 
 ## Certifications
 https://drive.google.com/drive/folders/1fn2-KDXdNEfhKQVx8ZlZdpJVn_YojZIm?usp=sharing
-<div>
-<img src="https://img.shields.io/badge/-SC--900%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Information%20Technology%20Specialist-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python%20ITS-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+<div style="display:flex; gap:10px; align-items:center;">
+  <!-- SC-900 Microsoft Security -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft.svg" alt="SC-900" width="40" height="40" />
+
+  <!-- Information Technology Specialist -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/certiport.svg" alt="ITS" width="40" height="40" />
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" alt="Python" width="40" height="40" />
 </div>
 
 ## Projects
