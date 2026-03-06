@@ -35,14 +35,7 @@ As a second-year Cybersecurity student at De La Salle–College of Saint Benilde
     <div style="display:flex; flex-wrap:wrap; gap:8px;">
 
   <img src="https://img.shields.io/badge/-Hydra-FF0000?&style=for-the-badge&logo=hydra&logoColor=white" alt="Hydra" />
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-    
-  <img src="https://img.shields.io/badge/-MD5-008000?&style=for-the-badge&logo=hashnode&logoColor=white" alt="MD5" />
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-    
-  <img src="https://img.shields.io/badge/-Metasploitable22-6A5ACD?&style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploitable22" />
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-    
+  <img src="https://img.shields.io/badge/-MD5-008000?&style=for-the-badge&logo=hashnode&logoColor=white" alt="MD5" />    
   <img src="https://img.shields.io/badge/-Hound-FF4500?&style=for-the-badge&logo=hound&logoColor=white" alt="Hound" />
     <div style="display:flex; flex-wrap:wrap; gap:8px;">
     
