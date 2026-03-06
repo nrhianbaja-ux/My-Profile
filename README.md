@@ -47,8 +47,27 @@ As a second-year Cybersecurity student at De La Salle–College of Saint Benilde
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+
+<a href="https://github.com/vanhauser-thc/thc-hydra">
+<img src="https://img.shields.io/badge/-Hydra-FF0000?&style=for-the-badge&logo=linux&logoColor=white" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/MD5">
+<img src="https://img.shields.io/badge/-MD5-008000?&style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+
+<a href="https://docs.rapid7.com/metasploit/">
+<img src="https://img.shields.io/badge/-Metasploitable2-6A5ACD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+</a>
+
+<a href="https://portswigger.net/burp">
+<img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+</a>
+
+<a href="https://www.cisco.com/c/en/us/products/cloud-systems-management/packet-tracer/index.html">
+<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0070D1?&style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+
 </div>
 
 ### SIEM
