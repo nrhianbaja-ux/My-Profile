@@ -31,13 +31,10 @@ As a second-year Cybersecurity student at De La Salle–College of Saint Benilde
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
-
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Hydra-FF0000?&style=for-the-badge&logo=hydra&logoColor=white" alt="Hydra" />
   <img src="https://img.shields.io/badge/-MD5-008000?&style=for-the-badge&logo=hashnode&logoColor=white" alt="MD5" />    
   <img src="https://img.shields.io/badge/-Hound-FF4500?&style=for-the-badge&logo=hound&logoColor=white" alt="Hound" />
-    <div style="display:flex; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/-Kleopatra-000080?&style=for-the-badge&logo=gpg&logoColor=white" alt="Kleopatra" />    
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />    
   <img src="https://img.shields.io/badge/-Cain%20and%20Abel-8B0000?&style=for-the-badge&logo=windows&logoColor=white" alt="Cain and Abel" />
