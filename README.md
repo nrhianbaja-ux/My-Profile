@@ -19,7 +19,6 @@ I am currently a second year Cybersecurity student at De La Salle–College of S
 | Subnetting (CIDR / Magic Number Method)       | Networking / Subnetting Exercises|
 | Network Fundamentals                          | Cisco Packet Tracer|
 | Technical Presentations                       | Presentations |
-| Slide Deck Creation (Canva / PowerPoint)      | Presentations |
 
 
 
