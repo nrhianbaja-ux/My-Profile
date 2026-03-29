@@ -1,3 +1,71 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- PURE BLACK background -->
+  <rect width="100%" height="100%" fill="#000000"/>
+
+  <!-- Matrix rain -->
+  <g fill="#22c55e" font-family="Courier New, monospace" font-size="14" opacity="0.15">
+    <text x="10" y="0">
+      01010101010101010101
+      <animate attributeName="y" values="0;200" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="200" y="-50">
+      11001010101101010101
+      <animate attributeName="y" values="-50;200" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="400" y="-100">
+      10101011100101010101
+      <animate attributeName="y" values="-100;200" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="650" y="-80">
+      01101010101011101010
+      <animate attributeName="y" values="-80;200" dur="3.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Main text -->
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+        font-size="48"
+        font-family="Courier New, monospace"
+        fill="#22ff88"
+        letter-spacing="2">
+
+    Rhian Baja
+
+    <!-- subtle flicker -->
+    <animate attributeName="opacity"
+             values="1;0.85;1;0.9;1"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Cursor -->
+  <text x="68%" y="55%" dominant-baseline="middle"
+        font-size="48"
+        font-family="Courier New, monospace"
+        fill="#22ff88">
+    ▋
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- Glitch effect -->
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+        font-size="48"
+        font-family="Courier New, monospace"
+        fill="#22ff88"
+        opacity="0.2">
+    Rhian Baja
+    <animate attributeName="x"
+             values="450;452;448;450"
+             dur="0.12s"
+             repeatCount="indefinite"/>
+  </text>
+
+</svg>
+
 ## Hello, I'm Rhian Baja ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <a href="https://www.linkedin.com/in/rhian-baja/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
