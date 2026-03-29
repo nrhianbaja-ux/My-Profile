@@ -1,147 +1,124 @@
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<!-- HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nrhianbaja-ux/nrhianbaja-ux/main/rhian_baja.gif" />
+</p>
 
-  <!-- PURE BLACK background -->
-  <rect width="100%" height="100%" fill="#000000"/>
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Rhian+Baja...;Loading+Cybersecurity+Modules...;Access+Granted+%F0%9F%94%91;System+Online" />
+</p>
 
-  <!-- Matrix rain -->
-  <g fill="#22c55e" font-family="Courier New, monospace" font-size="14" opacity="0.15">
-    <text x="10" y="0">
-      01010101010101010101
-      <animate attributeName="y" values="0;200" dur="3s" repeatCount="indefinite"/>
-    </text>
-    <text x="200" y="-50">
-      11001010101101010101
-      <animate attributeName="y" values="-50;200" dur="4s" repeatCount="indefinite"/>
-    </text>
-    <text x="400" y="-100">
-      10101011100101010101
-      <animate attributeName="y" values="-100;200" dur="5s" repeatCount="indefinite"/>
-    </text>
-    <text x="650" y="-80">
-      01101010101011101010
-      <animate attributeName="y" values="-80;200" dur="3.5s" repeatCount="indefinite"/>
-    </text>
-  </g>
+<!-- MATRIX STYLE IMAGE -->
+<p align="center">
+  <img src="https://media.giphy.com/media/1n0m6i8Fh6m0/giphy.gif" width="600"/>
+</p>
 
-  <!-- Main text -->
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-        font-size="48"
-        font-family="Courier New, monospace"
-        fill="#22ff88"
-        letter-spacing="2">
+<!-- ABOUT -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-    Rhian Baja
+<p align="center">
+I am currently a second year Cybersecurity student at De La Salle–College of Saint Benilde focused on building foundational skills in network security, threat detection, and vulnerability analysis. I am currently expanding my knowledge in ethical hacking, penetration testing, and security operations.
+</p>
 
-    <!-- subtle flicker -->
-    <animate attributeName="opacity"
-             values="1;0.85;1;0.9;1"
-             dur="4s"
-             repeatCount="indefinite"/>
-  </text>
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
-  <!-- Cursor -->
-  <text x="68%" y="55%" dominant-baseline="middle"
-        font-size="48"
-        font-family="Courier New, monospace"
-        fill="#22ff88">
-    ▋
-    <animate attributeName="opacity"
-             values="1;0;1"
-             dur="1s"
-             repeatCount="indefinite"/>
-  </text>
+<!-- STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nrhianbaja-ux&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-  <!-- Glitch effect -->
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-        font-size="48"
-        font-family="Courier New, monospace"
-        fill="#22ff88"
-        opacity="0.2">
-    Rhian Baja
-    <animate attributeName="x"
-             values="450;452;448;450"
-             dur="0.12s"
-             repeatCount="indefinite"/>
-  </text>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrhianbaja-ux&theme=tokyonight&hide_border=true" />
+</p>
 
-</svg>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrhianbaja-ux&theme=react-dark&hide_border=true" />
+</p>
 
-## Hello, I'm Rhian Baja ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<a href="https://www.linkedin.com/in/rhian-baja/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- SKILLS -->
+<h2 align="center">⚡ Skills & Tools ⚡</h2>
 
-## About Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,html,css,javascript,cpp" />
+</p>
 
-I am currently a second year Cybersecurity student at De La Salle–College of Saint Benilde focused on building foundational skills in network security, threat detection, and vulnerability analysis. My experience includes working on projects such as an incident response plan, phishing awareness simulations, and security labs involving network traffic monitoring and attack detection. I am currently expanding my knowledge in ethical hacking, penetration testing, and security operations. 
+<!-- EXPERIENCE TABLE -->
+<h2 align="center">📊 Skills Overview</h2>
 
-## Skills
+<table align="center">
+<tr>
+<th>Skill</th>
+<th>Associated Project</th>
+</tr>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Cybersecurity Fundamentals                      | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Basic Vulnerability Analysis                    | Detection Lab|
-| Incident Response Planning and Execution      | Incident Response Plan (IRP)|
-| Web Security Concept                          | Phishing Awareness Game|
-| Threat Awareness and Risk Assesment           | Phishing Awareness Game|
-| IP Adressing                                  | Networking / Subnetting Exercises|
-| Subnetting (CIDR / Magic Number Method)       | Networking / Subnetting Exercises|
-| Network Fundamentals                          | Cisco Packet Tracer|
-| Technical Presentations                       | Presentations |
+<tr>
+<td>Cybersecurity Fundamentals</td>
+<td>Detection Lab</td>
+</tr>
 
+<tr>
+<td>Network Traffic Monitoring</td>
+<td>Detection Lab</td>
+</tr>
 
+<tr>
+<td>Vulnerability Analysis</td>
+<td>Detection Lab</td>
+</tr>
 
-## Tools
+<tr>
+<td>Incident Response Planning</td>
+<td>IRP</td>
+</tr>
 
+<tr>
+<td>Web Security Awareness</td>
+<td>Phishing Simulation</td>
+</tr>
 
-### Network
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hydra-FF0000?&style=for-the-badge&logo=hydra&logoColor=white" alt="Hydra" />
-  <img src="https://img.shields.io/badge/-MD5-008000?&style=for-the-badge&logo=hashnode&logoColor=white" alt="MD5" />    
-  <img src="https://img.shields.io/badge/-Hound-FF4500?&style=for-the-badge&logo=hound&logoColor=white" alt="Hound" />
-  <img src="https://img.shields.io/badge/-Kleopatra-000080?&style=for-the-badge&logo=gpg&logoColor=white" alt="Kleopatra" />    
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />    
-  <img src="https://img.shields.io/badge/-Cain%20and%20Abel-8B0000?&style=for-the-badge&logo=windows&logoColor=white" alt="Cain and Abel" />
-  <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0070D1?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-</div>
+<tr>
+<td>Networking / Subnetting</td>
+<td>Packet Tracer</td>
+</tr>
 
+</table>
 
-    
-</div>
+<!-- TOOLS -->
+<h2 align="center">🛠 Tools</h2>
 
-### Endpoint
-<div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0070D1?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-<a href="https://github.com/vanhauser-thc/thc-hydra">
-<img src="https://img.shields.io/badge/-Hydra-FF0000?&style=for-the-badge&logo=linux&logoColor=white" />
-</a>
+<!-- CERTIFICATIONS -->
+<h2 align="center">📜 Certifications</h2>
 
-<a href="https://en.wikipedia.org/wiki/MD5">
-<img src="https://img.shields.io/badge/-MD5-008000?&style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/SC--900%20Microsoft%20Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20ITS-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT%20Specialist-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
-<a href="https://docs.rapid7.com/metasploit/">
-<img src="https://img.shields.io/badge/-Metasploitable2-6A5ACD?&style=for-the-badge&logo=metasploit&logoColor=white" />
-</a>
+<!-- SOCIAL -->
+<h2 align="center">🌐 Connect</h2>
 
-<a href="https://portswigger.net/burp">
-<img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logo=burpsuite&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://github.com/nrhianbaja-ux">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://www.cisco.com/c/en/us/products/cloud-systems-management/packet-tracer/index.html">
-<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0070D1?&style=for-the-badge&logo=cisco&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/rhian-baja/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-## Certifications
-https://drive.google.com/drive/folders/1fn2-KDXdNEfhKQVx8ZlZdpJVn_YojZIm?usp=sharing
-<div>
-<img src="https://img.shields.io/badge/-SC--900%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Information%20Technology%20Specialist-5C2D91?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python%20ITS-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-## Projects
-- Open Test / Penetration Testing Lab
-- Incident Response Plan (IRP)
-- Phishing Awareness Game
-- Networking / Subnetting Exercises
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:FF00FF&height=120&section=footer"/>
+</p>
