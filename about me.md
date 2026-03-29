@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Rhian Baja" />
+  <img src="https://raw.githubusercontent.com/Rhian Baja/Rhian Baja/master/name.svg" alt="Rhian Baja" />
 </h1>
 
 ## Hello, I'm Rhian Baja ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
