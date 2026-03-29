@@ -1,17 +1,8 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nrhianbaja-ux/nrhianbaja-ux/main/rhian_baja.gif" />
-</p>
-
 <!-- TYPING EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Rhian+Baja...;Loading+Cybersecurity+Modules...;Access+Granted+%F0%9F%94%91;System+Online" />
 </p>
-
-<!-- MATRIX STYLE IMAGE -->
-<p align="center">
-  <img src="https://media.giphy.com/media/1n0m6i8Fh6m0/giphy.gif" width="600"/>
-</p>
+>
 
 <!-- ABOUT -->
 <h2 align="center">👨‍💻 About Me</h2>
@@ -45,7 +36,7 @@ I am currently a second year Cybersecurity student at De La Salle–College of S
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,html,css,javascript,cpp" />
 </p>
 
-<!-- EXPERIENCE TABLE -->
+<!-- SKILLS TABLE -->
 <h2 align="center">📊 Skills Overview</h2>
 
 <table align="center">
@@ -80,8 +71,23 @@ I am currently a second year Cybersecurity student at De La Salle–College of S
 </tr>
 
 <tr>
-<td>Networking / Subnetting</td>
-<td>Packet Tracer</td>
+<td>Threat Awareness & Risk Assessment</td>
+<td>Phishing Simulation</td>
+</tr>
+
+<tr>
+<td>IP Addressing</td>
+<td>Networking Exercises</td>
+</tr>
+
+<tr>
+<td>Subnetting</td>
+<td>Networking Exercises</td>
+</tr>
+
+<tr>
+<td>Network Fundamentals</td>
+<td>Cisco Packet Tracer</td>
 </tr>
 
 </table>
