@@ -9,7 +9,7 @@
 </p>
 
 <!-- ABOUT -->
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 Here's some details about me</h2>
 
 <p align="center">
 I am currently a second year Cybersecurity student at De La Salle–College of Saint Benilde focused on building foundational skills in network security, threat detection, and vulnerability analysis. I am currently expanding my knowledge in ethical hacking, penetration testing, and security operations.
@@ -34,7 +34,7 @@ I am currently a second year Cybersecurity student at De La Salle–College of S
 </p>
 
 <!-- SKILLS -->
-<h2 align="center">⚡ Skills & Tools ⚡</h2>
+<h2 align="center"> My Skills & Tools 🔧 </h2>
 
 <p align="center">
 
@@ -55,34 +55,6 @@ I am currently a second year Cybersecurity student at De La Salle–College of S
 <a href="https://www.netacad.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cisco.svg" height="50"/>
 </a>
-
-<!-- Cybersecurity Tools -->
-<a href="https://nmap.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nmap" height="50"/>
-</a>
-<a href="https://www.wireshark.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=wireshark" height="50"/>
-</a>
-<a href="https://portswigger.net/burp" target="_blank">
-  <img src="https://skillicons.dev/icons?i=burpsuite" height="50"/>
-</a>
-<a href="https://www.gpg4win.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gnupg" height="50"/>
-</a>
-
-<!-- Platforms -->
-<a href="https://tryhackme.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tryhackme" height="50"/>
-</a>
-<a href="https://www.hackthebox.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hackthebox" height="50"/>
-</a>
-
-<!-- Version Control -->
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
 </p>
 
 <!-- CERTIFICATIONS -->
@@ -94,7 +66,7 @@ I am currently a second year Cybersecurity student at De La Salle–College of S
 </p>
 
 <!-- SOCIAL -->
-<h2 align="center">🌐 Connect</h2>
+<h2 align="center">🌐 Connect with me </h2>
 
 <p align="center">
   <a href="https://github.com/nrhianbaja-ux">
