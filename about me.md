@@ -37,28 +37,56 @@ I am currently a second year Cybersecurity student at De La Salle–College of S
 <h2 align="center">⚡ Skills & Tools ⚡</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jamovi-4B8BBE?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kleopatra-000080?style=for-the-badge&logo=gpg&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=linux&logoColor=white" />
+<!-- Programming -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cs" height="50"/>
+</a>
+
+<!-- Operating System -->
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+</a>
+
+<!-- Networking -->
+<a href="https://www.netacad.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cisco.svg" height="50"/>
+</a>
+
+<!-- Cybersecurity Tools -->
+<a href="https://nmap.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nmap" height="50"/>
+</a>
+<a href="https://www.wireshark.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=wireshark" height="50"/>
+</a>
+<a href="https://portswigger.net/burp" target="_blank">
+  <img src="https://skillicons.dev/icons?i=burpsuite" height="50"/>
+</a>
+<a href="https://www.gpg4win.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gnupg" height="50"/>
+</a>
+
+<!-- Platforms -->
+<a href="https://tryhackme.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tryhackme" height="50"/>
+</a>
+<a href="https://www.hackthebox.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=hackthebox" height="50"/>
+</a>
+
+<!-- Version Control -->
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
 </p>
 
 <!-- CERTIFICATIONS -->
 <h2 align="center">📜 Certifications</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SC--900%20Microsoft%20Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20ITS-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/IT%20Specialist-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-<!-- GOOGLE DRIVE -->
-<h2 align="center">📁 Certifications Folder</h2>
-
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1fn2-KDXdNEfhKQVx8ZlZdpJVn_YojZIm?usp=sharing" target="_blank">
     🔗 View My Certifications
