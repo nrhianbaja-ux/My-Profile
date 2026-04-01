@@ -8,20 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Rhian+Baja...;Loading+Cybersecurity+Modules...;Access+Granted+%F0%9F%94%91;System+Online" />
 </p>
 
-<!-- NOW PLAYING -->
-<h2 align="center">🎧 Now Playing</h2>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=7t0kP0kF7Q8" target="_blank">
-    ▶️ Mr. Robot - 1.0_1-friend.exe (Mac Quayle)
-  </a>
-</p>
-
-<!-- MATRIX GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/1n0m6i8Fh6m0/giphy.gif" width="600"/>
-</p>
-
 <!-- ABOUT -->
 <h2 align="center">👨‍💻 About Me</h2>
 
