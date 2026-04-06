@@ -39,7 +39,7 @@ Second-year Cybersecurity student at De La Salle–College of Saint Benilde, spe
       • Penetration Testing
     </td>
     <td align="center">
-      Deepfake analysis • Dog training • Fitness • Scripture reflection • Matcha enthusiast
+      Deepfake analysis • Fitness • Scripture reflection • Matcha enthusiast
     </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@ Second-year Cybersecurity student at De La Salle–College of Saint Benilde, spe
 | **Penetration Testing Reports** | Documented security assessments from home lab | ✅ Portfolio Available |
 | **Network Security Analysis** | Enterprise architecture reviews & defense strategies | ✅ Case Studies Published |
 
-**[View All Projects →](https://github.com/nrhianbaja-ux?tab=repositories)**
+**[View All Projects →](https://drive.google.com/drive/folders/1F1-3BMWlJZCOnYKROyEY1ZRPbctFEmck?usp=sharing)**
 
 ---
 
@@ -108,11 +108,9 @@ Second-year Cybersecurity student at De La Salle–College of Saint Benilde, spe
 
 ## 🎓 What I'm Looking For
 
-✔️ **Internships** in penetration testing or threat analysis  
+✔️ **Internships** Any Tech-related roles 
 ✔️ **Collaborations** on open-source security projects  
 ✔️ **Mentorship** in advanced threat hunting and incident response  
-✔️ **Projects** involving secure application architecture  
-
 ---
 
 ## 🌐 Connect With Me
